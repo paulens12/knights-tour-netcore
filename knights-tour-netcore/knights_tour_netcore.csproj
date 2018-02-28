@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <RuntimeIdentifiers>win-x64;win-x86;win-arm;linux-arm</RuntimeIdentifiers>
   </PropertyGroup>
 
 </Project>

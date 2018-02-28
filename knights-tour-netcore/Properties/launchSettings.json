@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "knights-tour-netcore": {
+      "commandName": "Project",
+      "commandLineArgs": "5 1 1"
+    }
+  }
+}

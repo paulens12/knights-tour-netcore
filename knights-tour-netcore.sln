@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knights-tour-netcore", "knights-tour-netcore\knights-tour-netcore.csproj", "{DB77C6F6-2235-47C7-8A59-5F9F1077F3CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "knights_tour_netcore", "knights-tour-netcore\knights_tour_netcore.csproj", "{DB77C6F6-2235-47C7-8A59-5F9F1077F3CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
